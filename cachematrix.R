@@ -48,8 +48,4 @@ cacheSolve <- function(x, ...) {
   inversematrix <- solve(data, ...)
   x$setinverse(inversematrix)
   inversematrix
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 98901963ac711de42e9f54fc38faf905646c6cd0
